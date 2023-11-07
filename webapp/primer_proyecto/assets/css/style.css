@@ -1,0 +1,18 @@
+
+        /* Establece el fondo del encabezado en verde claro (#69bd45) */
+         .header {
+            background-color: #333;
+             color: #f5f5f5;
+             text-align: center;
+             padding: 20px;
+          }
+
+          /* Estilos para centrar el formulario */
+.centered-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; /* Esto centra verticalmente también */
+}
+

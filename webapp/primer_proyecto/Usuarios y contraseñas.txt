@@ -1,0 +1,7 @@
+	Usuario ADMIN
+	admin@gmail.com
+        admin123
+
+        Cliente
+        cliente@gmail.com
+        cliente123
